@@ -1,33 +1,8 @@
-<div align="center">
-
 # LibreResxTranslate
 
-### Automated `.resx` localization library for .NET projects using LibreTranslate.
+Automated `.resx` localization library for .NET projects using LibreTranslate.
 
-<p align="center">
-  <img src="https://shields.dvurechensky.pro/nuget/v/LibreResxTranslate">
-  <img src="https://shields.dvurechensky.pro/nuget/dt/LibreResxTranslate">
-  <img src="https://shields.dvurechensky.pro/badge/license-MIT-green">
-</p>
-
-</div>
-
-<div align="center" style="margin: 20px 0; padding: 10px; background: #1c1917; border-radius: 10px;">
-  <strong>🌐 Language: </strong>
-  
-  <a href="./README.ru.md" style="color: #F5F752; margin: 0 10px;">
-    🇷🇺 Russian
-  </a>
-  | 
-  <span style="color: #0891b2; margin: 0 10px;">
-    ✅ 🇺🇸 English (current)
-  </span>
-</div>
-
----
-
-> [!TIP]
-> Generate multilingual resource files for existing WinForms, WPF, and desktop applications without manually editing translations.
+Generate multilingual resource files for existing WinForms, WPF, and desktop applications without manually editing translations.
 
 ---
 
@@ -138,8 +113,7 @@ Translate a specific `.resx` file.
 - Self-hosted environments
 - Private infrastructure ready
 
-> [!IMPORTANT]
-> [Setup LibreTranslate](docs/libretranslate.ru.md)
+> Info startup Libretranslate - https://github.com/Dvurechensky-Tools/LibreResxTranslate/blob/main/docs/libretranslate.md
 
 ---
 
@@ -150,13 +124,6 @@ Manual `.resx` localization is slow and repetitive.
 This package automates the process while allowing you to keep translation infrastructure under your control.
 
 Perfect for companies that need private or offline localization workflows.
-
----
-
-## Roadmap
-
-- CLI tool
-- GUI manager
 
 ---
 

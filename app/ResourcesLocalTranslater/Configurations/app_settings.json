@@ -1,0 +1,17 @@
+﻿{
+  "IsURL": false,
+  "Url": "",
+  "IP": "192.168.0.179",
+  "PORT": "5000",
+  "Protocol": "http",
+  "Entries": [
+    {
+      "Flag": "Folder",
+      "Type": "WinFormsLocalized",
+      "In": "F:\\REPOSITORIES\\GITHUB\\_REPO\\LIZERIUM\\LizeriumAccauntManager\\app\\LizeriumAccauntManager\\Views",
+      "Out": "Out",
+      "CultureIn": "en",
+      "CultureOut": [ "ru" ]
+    }
+  ]
+}
