@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://dvurechensky.pro/
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 31 октября 2026 10:57:40
- * Version: 1.0.192
+ * Last Updated: 01 ноября 2026 11:17:55
+ * Version: 1.0.193
  */
 
 using LibreResxTranslate.Components;
